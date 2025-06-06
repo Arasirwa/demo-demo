@@ -1,4 +1,7 @@
 print("Hello world!")
-print("test")
 
+print("This is my list")
+print("birthday")
+print("business")
+print("test")
 
